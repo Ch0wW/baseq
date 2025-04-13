@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: "[GAMENAME] Your issue here."
-labels: ''
+labels: bug
 assignees: Ch0wW
 
 ---
