@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest an idea for our servers!
 title: "[GAMENAME] Feat: Your Issue here"
 labels: ''
-assignees: ''
+assignees: Ch0wW
 
 ---
 
